@@ -16,7 +16,7 @@
 3. Порівняти результати роботи програми мовою Common Lisp с розрахунками
 іншими засобами.
 ## Варіант <16>
-<img src="img/img1.png"">
+<img src="img/img1.png">
 
 ## Лістинг реалізації завдання
 ```lisp
@@ -75,12 +75,13 @@ NIL
 ### Порівняння результатів з обчисленням іншими програмними засобами
 Для F(2):
 
-<img src="img/img2.jpg"">
+<img src="img/img2.jpg">
 
 Для F(3):
 
-<img src="img/img3.png"">
+<img src="img/img3.png">
 
 Для F(11):
 
-<img src="img/img4.png"">
+<img src="img/img4.png">
+
